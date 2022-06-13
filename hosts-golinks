@@ -1,0 +1,6 @@
+# From Android
+127.0.0.1       localhost
+::1             ip6-localhost
+
+# prod.go.splunk.com
+204.107.141.134 go go.splunk.com go.sv.splunk.com
